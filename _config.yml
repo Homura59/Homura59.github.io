@@ -1,10 +1,10 @@
 # Site settings
-title: H_A Blog
+title: HA Blog
 SEOTitle: Homura的博客 | Homura Blog
 header-img: img/post-bg-desk.jpg
 email: xiyue5494@gmail.com
 description: "Every failure is leading towards success."
-keyword: "H_A, Homura Blog, Homura的博客, Game, MOD, Android, Windows, "
+keyword: "HA, Homura Blog, Homura的博客, Game, MOD, Android, Windows, "
 url: "http://homura59.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/homura59/homura59.github.io.git" # you code repository
