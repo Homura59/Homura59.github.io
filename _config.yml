@@ -2,8 +2,10 @@
 title: HA Blog
 SEOTitle: Homura的博客 | Homura Blog
 header-img: img/post-bg-desk.jpg
-email: xiyue5494@gmail.com
+# email: xiyue5494@gmail.com
 description: "Every failure is leading towards success."
+
+
 keyword: "HA, Homura Blog, Homura的博客, Game, MOD, Android, Windows, "
 url: "http://homura59.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
